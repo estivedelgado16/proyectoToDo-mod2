@@ -8,7 +8,7 @@ function crearTarea(item) {
     }
     itemsArray.push(nuevaTarea)
     localStorage.setItem('items', JSON.stringify(itemsArray))
-    
+    location.reload()
 }
 
 document.querySelector('.new-todo').addEventListener('keyup', (event) => {

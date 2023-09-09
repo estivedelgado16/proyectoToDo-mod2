@@ -12,13 +12,13 @@ function displayFooter() {
             <a onclick="mostrarTodos()" class="selected filtro" href="#/">Todos</a>
           </li>
           <li>
-            <a onclick="showPend()" class="filtro" href="#/active">Pendientes</a>
+            <a onclick="mostrarPendientes()" class="filtro" href="#/active">Pendientes</a>
           </li>
           <li>
-            <a onclick="showComp()" class="filtro" href="#/completed">Completados</a>
+            <a onclick="mostrarComp()" class="filtro" href="#/completed">Completados</a>
           </li>
         </ul>
-        <button onclick="borrarCompletados()" id="clear-completed" class="clear-completed">Borrar completados</button>
+        <button onclick="borrarComp()" id="clear-completed" class="clear-completed">Borrar completados</button>
       </footer>
     `
   document.querySelector('.footer').innerHTML = page
