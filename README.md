@@ -57,3 +57,10 @@ también contamos con un contador de tareas pendientes que prodrás observar en 
 2. marcando las tareas con el check de completo y dando click en el boton de "Borrar completados "
 
 ![Captura de pantalla 2023-09-08 223833](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/8612b906-2b00-4faa-bc24-7860864215ac)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+link de trello: https://trello.com/b/HJDI8tyT/scrum-board
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
