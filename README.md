@@ -5,9 +5,16 @@
 App de tareas es una aplicación de gestión de tareas que te ayuda a organizar tu vida y ser más productivo. Con APP de tareas,
 puedes crear, editar y gestionar tus tareas de manera eficiente y mantener un registro de todas tus actividades pendientes.
 
--Abre la app en tu novegador.
 
-![Captura de pantalla 2023-09-08 223438](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/7715ce7c-760c-45fc-8000-9ad964fb9c22)
+# uso
+clona el repo: ```https://github.com/estivedelgado16/proyectoToDo-mod2.git```
+
+Abre en visualStudio o el editor de tu preferencia el repo e installa la extencion "Live server" para iniciar la app
+
+-Abre la app en tu navegador.
+
+![image](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/80003da7-ee52-47ac-aa47-ca297f0f0b6c)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,14 +23,8 @@ puedes crear, editar y gestionar tus tareas de manera eficiente y mantener un re
 
 -Haz enter en ¿Qué necesita ser hecho?" para agregar una nueva tarea.
 
-![Captura de pantalla 2023-09-08 223534](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/24e2f349-b9a9-43be-872c-93d53b2b8a78)
+![image](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/0cd5b52f-b872-49eb-a351-a363432a9da0)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-- para marcar la tarea como completada, haz click en el cuadro de check; que se encuentra en la parte derecha de tu tarea 
-
-![Captura de pantalla 2023-09-08 223619](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/66950d88-caef-4018-965e-cf9d79566cff)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,14 +33,8 @@ también contamos con un contador de tareas pendientes que prodrás observar en 
 
 -cuando das click en el boton de "pendientes", en la parte inferior en el centro; muestra las tareas pendientes.
 
-![Captura de pantalla 2023-09-08 223635](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/4929b9bc-4b3c-4eac-8439-ded87119168d)
+![image](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/eb9cf725-4ea5-4ba4-b92e-975614c96f4c)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
--para ver las tareas completadas, haz click en el boton de "completados" en la parte inferior de la app.
-
-![Captura de pantalla 2023-09-08 223651](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/d22d8b27-1a68-4820-9a5d-0c85f371c7a5)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -47,7 +42,8 @@ también contamos con un contador de tareas pendientes que prodrás observar en 
 -Para editar una tarea existente, haz clic en el icono de edición (lapicera) junto a la tarea que deseas modificar.
 -Haz clic en "Guardar" para agregar el cambio.
 
-![Captura de pantalla 2023-09-08 223813](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/af825aaa-2a30-4ee1-8733-ccb9039267bf)
+![image](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/cd2e77d7-295a-4c2b-98ad-c4d632e1bb4c)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -56,7 +52,8 @@ también contamos con un contador de tareas pendientes que prodrás observar en 
 1. dando click en "x" borrar solo una tarea
 2. marcando las tareas con el check de completo y dando click en el boton de "Borrar completados "
 
-![Captura de pantalla 2023-09-08 223833](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/8612b906-2b00-4faa-bc24-7860864215ac)
+![image](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/7c8ed937-487b-4eff-87e0-d794544db5fc)
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
